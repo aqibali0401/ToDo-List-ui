@@ -72,26 +72,16 @@ input {
   background: white !important;
 }
 
-
-
-
-
 /* //the add symbol inside the button in app comp */
-
-
 
 .MuiSvgIcon-root {
   width: 2rem !important;
   height: 2rem !important;
 }
 
-
-
-
-
 ol {
-   margin-top: 30px;
-   /* margin-right: 50px; */
+  margin-top: 30px;
+  /* margin-right: 50px; */
 }
 
 ol li {
@@ -117,58 +107,18 @@ ol li {
 
 
 .todo_style .deleteIcon {
-
-
-
   width: 25px;
-
-
-
   height: 25px;
-
-
-
   display: flex;
-
-
-
   justify-content: center;
-
-
-
   align-items: center;
-
-
-
   background-color: #8566aa;
-
-
-
   border-radius: 50%;
-
-
-
   margin: 0 15px 0 35px;
-
-
-
   padding: 5px;
-
-
-
   color: aliceblue;
-
-
-
   box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3);
-
-
-
 }
-
-
-
-
 
 .todo_style .deleteIcon:hover {
   background-color: transparent;
@@ -176,98 +126,29 @@ ol li {
   box-shadow: 5px 5px 15px -5px rgba(255, 0, 0, 0.5);
 }
 
-
-
-
-
 .todo_style .fa-times:hover .list_style {
-
-
-
   color: crimson;
-
-
-
 }
 
-
-
-
-
 @media (max-width: 768px) {
-
-
-
   .center_div {
-
-
-
     width: 55%;
-
-
-
   }
-
-
-
-
 
   .todo_style .fa-times {
-
-
-
     margin: 0 15px 0 15px;
-
-
-
     display: flex;
-
-
-
     justify-content: center;
-
-
-
     align-items: center;
-
-
-
     /* plz subscibe to thapatechnical channel */
-
-
-
   }
-
-
-
-
 
   button {
-
-
-
     margin-left: 5px;
-
-
-
     min-height: 40px;
-
-
-
     width: 40px;
-
-
-
     color: #fff;
-
-
-
     font-size: 30px;
-
-
-
   }
-
-
 
 }
